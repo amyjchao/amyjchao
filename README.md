@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amyjchao
-- 👀 I’m interested in building recommendations system
-- 🌱 I’m currently learning the Alpha Camp RecSys program that collaborate with iCook
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building a recommendations system
+- 🌱 I was learning the Alpha Camp RecSys program that collaborate with iCook
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me : amyjchao@gmail.com
 
 <!---
